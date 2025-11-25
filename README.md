@@ -66,7 +66,7 @@ matrix.py
 *How to Run the Files*
 Download the repository or clone it.
 Open the .ipynb files in Google Colab / Jupyter Notebook.
-Run matrix_operations_tool.py using:
+Run matrix.py using:
 python matrix.py
 
 *Author*
