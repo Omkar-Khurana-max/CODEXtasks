@@ -25,7 +25,6 @@ titanic.csv
 Tools Used:
 Python
 Pandas
-NumPy
 Scikit-Learn
 Matplotlib
 
